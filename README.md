@@ -24,7 +24,7 @@
 |------------|---------------------------------------------|
 | `/sql`     | Contains all SQL queries used in analysis   |
 | `/data`    | Raw CSV dataset                             |
-
+| `/pdf'     | Summary Insight                             |
 ---
 
 ## 🔍 Key Insights (from SQL)
