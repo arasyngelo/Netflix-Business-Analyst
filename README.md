@@ -1,6 +1,4 @@
 # 📊 Netflix Content Analysis with Oracle SQL
-### 🎯 Business Analyst Portfolio Project
-
 ---
 
 ## 📌 Project Goals
@@ -17,7 +15,6 @@
 
 - Oracle SQL 11g (with SQL Developer)
 - Netflix Dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- Optional: Excel or Power BI for visualization (not included here)
 
 ---
 
@@ -27,15 +24,10 @@
 |------------|---------------------------------------------|
 | `/sql`     | Contains all SQL queries used in analysis   |
 | `/data`    | Raw CSV dataset                             |
-| `/assets`  | Images/charts (optional visual insight)     |
 
 ---
 
 ## 🔍 Key Insights (from SQL)
-
-### 📈 Content Growth (TV Show vs Movie)
-- TV Shows increased significantly since 2015.
-- Movies still dominate in volume, but gap is closing.
 
 ### 🌍 Top Contributing Countries
 - USA leads, followed by India, UK, Canada.
@@ -43,7 +35,6 @@
 
 ### 🎬 Most Common Genres
 - Drama and International content dominate.
-- Growing trend in Action & Comedy.
 
 ### ⏱️ Popular Movie Durations
 - Most common: 90–100 minutes.
